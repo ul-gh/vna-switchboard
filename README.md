@@ -16,4 +16,4 @@ The input is a 6P6 western socket pinning compatible to the
 DG8SAQ VNWA3. When this input is connected, no additional power
 supply or control signals are required.
 
-Schematic PDF: [VNA-Switchboard_FAN3241.pdf]
+Schematic PDF: [VNA-Switchboard_FAN3241.pdf](VNA-Switchboard_FAN3241.pdf)

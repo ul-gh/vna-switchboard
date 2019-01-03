@@ -17,3 +17,9 @@ DG8SAQ VNWA3. When this input is connected, no additional power
 supply or control signals are required.
 
 Schematic PDF: [VNA-Switchboard_FAN3241.pdf](VNA-Switchboard_FAN3241.pdf)
+
+Additional instructions: Most if not all MT3608 DCDC converter boards sold
+today require the following bug fix if medium output voltages are to be set:
+
+![Alt text](MT3608-bugfix.jpg?raw=true "MT3608 bug fix")
+

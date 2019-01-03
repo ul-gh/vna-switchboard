@@ -1,6 +1,6 @@
 ![Alt text](title.jpg?raw=true "Title Image")
 
-![Alt text](preview2.jpg?raw=true "Preview Image")
+![Alt text](VNA-Switchboard_TOP.jpg?raw=true "Image VNA-Switchboard TOP face")
 
 # VNA-Switchboard FAN3241
 KiCad project files for PCB driving a 12V...28V latching relay
